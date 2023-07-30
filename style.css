@@ -1,0 +1,52 @@
+h1, h2, p {
+    text-align: center;
+    font-family: Arial;
+}
+body {
+    padding: 20px;
+    background-image: url("jollof rice.jpg");
+    font-family: sans-serif
+}
+.menu {
+    width: 80%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 800px;
+}
+.days {
+    text-align: left;
+    width: 25%;
+}
+.main {
+    text-align: right;
+    width: 75%;
+}
+.name, .copyright {
+font-style: italic;
+}
+.main, .dessert {
+    text-align: right;
+    width: 75%;
+}
+hr {
+    height: 2px;
+    background-color: black;
+    border-color: black;
+    width: 800px;
+}
+.item p {
+    display: inline-block;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.one {
+    width: 200px;
+}
+.two {
+    width: 150px;
+}
